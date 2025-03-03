@@ -2,3 +2,5 @@
 *.lck
 fp-info-cache
 fp-lib-table
+/KiCad/S-Video-Breakout/bom
+/KiCad/S-Video-Breakout/jlcpcb
